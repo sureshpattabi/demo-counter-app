@@ -13,7 +13,7 @@ pipeline {
             steps{
   //              script {
   //                  sh 'mvn test' 
-                }
+  //              }
             }
         }
         stage('Integration testing'){
